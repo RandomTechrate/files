@@ -68,14 +68,12 @@ body {
 }
 
 header h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   margin-bottom: 10px;
-  text-align: center;
 }
 
 header .server-ip {
-  font-size: 1.2rem;
-  text-align: center;
+  font-size: 1.5rem;
   margin-bottom: 30px;
 }
 
@@ -88,7 +86,7 @@ header .server-ip {
 
 .card {
   flex: 1;
-  min-width: 150px;
+  min-width: 200px;
   max-width: 250px;
   padding: 20px;
   border-radius: 10px;
@@ -101,7 +99,7 @@ header .server-ip {
 
 .card h2 {
   margin-bottom: 10px;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 .card p {
